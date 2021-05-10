@@ -15,8 +15,6 @@
 - 👯 I’m looking to collaborate with other web developers 
 - 🤔 I’m looking for help with Back-end development
 
-<br />
-
 ### Connect with me:
 <div style="display: inline_block" >
     <a href="mailto: nahtann@outlook.com">
