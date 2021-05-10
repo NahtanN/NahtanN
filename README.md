@@ -25,8 +25,6 @@
     </a>
 </div>
 
-<br />
-
 ### Languages and Tools:
 <div style="display: inline_block" >
     <img align="center" alt="NahtanN-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
