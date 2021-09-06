@@ -10,7 +10,7 @@
 
 <br />
 
-- 🔭 I’m currently working on my first ecommerce website: [Vital](https://vital-neon.vercel.app/)
+- 🔭 I’m currently working on my first ecommerce website: <a href="https://vital-neon.vercel.app/" target="_blank">AdValue</a>
 - 🌱 I’m currently learning Typescript and Node.js
 - 👯 I’m looking to collaborate with other web developers 
 - 🤔 I’m looking for help with Back-end development
