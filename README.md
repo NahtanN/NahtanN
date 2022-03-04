@@ -10,7 +10,7 @@
 
 <br />
 
-- 🔭 I’m currently working on my first ecommerce website: <a href="https://advalue-web.vercel.app/" target="_blank">AdValue</a>
+- 🔭 I’m currently working on my first web3 website: <a href="https://projeto-estrelar.vercel.app/" target="_blank">Star Project</a>
 - 🌱 I’m currently learning Typescript and Node.js
 - 👯 I’m looking to collaborate with other web developers 
 - 🤔 I’m looking for help with Back-end development
